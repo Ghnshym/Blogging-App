@@ -8,7 +8,8 @@ Thank you for showing interest in this Laravel project! Below are the step-by-st
 - [Composer](https://getcomposer.org/) installed on your system.
 - [PHP](https://www.php.net/manual/en/install.php) installed on your system (PHP 8.0 or higher recommended).
 - [MySQL](https://www.mysql.com/) or any other supported database management system.
-- or you can install XAMPP for PHP and MySQL 
+- or you can install XAMPP for PHP and MySQL
+- <h6><a href="https://www.apachefriends.org/download.html" > XAMPP </a></h6>
 - Basic knowledge of working with Laravel, PHP, and MySQL.
 
 ## Steps to Run the Project
