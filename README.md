@@ -19,7 +19,7 @@ You have two options to get the project files:
 
 - **Option 1: Clone the Repository (Recommended)**
   ```
-  git clone https://github.com/Ghnshym/repository-name.git
+  git clone https://github.com/Ghnshym/Blogging-App.git
   ```
 
 - **Option 2: Download ZIP**
